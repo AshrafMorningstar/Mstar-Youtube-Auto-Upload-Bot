@@ -1,1 +1,5 @@
-Date: 17-Jan-2025, Commit #: 66
+<title>Big Text Example</title> <style> .big-text { font-size: 72px; font-weight: bold; } </style>
+Made By Ashraf Morningstar
+
+<style> .beautiful-text { font-size: 2em; color: #ff69b4; /* hot pink */ font-weight: bold; text-shadow: 2px 2px 5px #7fffd4; /* aquamarine */ } </style> <title>Beautiful Text</title>
+This Was Last My Update Of This Project
