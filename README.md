@@ -16,6 +16,7 @@
 </html>
 
 
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -246,28 +247,4 @@ driver = webdriver.Chrome(service=service, options=options)
 Thank You 
 @AshrafMorningstar @Ashraf-Morningstar
 
-Made By Ashraf Morningstar 
-
-   <h1>Made By Ashraf Morningstar</h1>
-
-
-This Was Last My Update Of This Project 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        .beautiful-text {
-            font-size: 2em;
-            color: #ff69b4; /* hot pink */
-            font-weight: bold;
-            text-shadow: 2px 2px 5px #7fffd4; /* aquamarine */
-        }
-    </style>
-    <title>Beautiful Text</title>
-</head>
-<body>
-    <p class="beautiful-text">This Was Last My Update Of This Project</p>
-</body>
-</html>
+Made By Ashraf Morningstar
