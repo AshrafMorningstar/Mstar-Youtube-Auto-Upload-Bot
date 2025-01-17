@@ -1,6 +1,23 @@
 ![alt text](Logo/Untitled-2.png)
 
 <!DOCTYPE html>
+<html>
+<head>
+    <title>Big Text Example</title>
+    <style>
+        .big-text {
+            font-size: 72px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <p class="big-text">Made By Ashraf Morningstar</p>
+</body>
+</html>
+
+
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
